@@ -1,0 +1,279 @@
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarOrcamento.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarVeiculo.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Update.resources
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+C:\Users\Nicolas\Desktop\gjgjghj\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarVeiculo.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Update.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+F:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+F:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+F:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarOrcamento.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarVeiculo.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Update.resources
+G:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmCadastrarOrcamento.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmCadastrarOrcamento.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarVeiculo.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Update.resources
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+C:\Users\Ricardo Sousa\Downloads\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatPJuridico.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmCadastrarOrcamento.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatPJuridico.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarVeiculo.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Update.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmCadastrarOrcamento.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatPJuridico.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarVeiculo.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Update.resources
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+C:\Users\alberto\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatPJuridico.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmCadastrarOrcamento.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatPJuridico.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarVeiculo.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Backup.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Restore.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Backup.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Restore.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmCadastrarOrcamento.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatPJuridico.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatSeg.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarVeiculo.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+C:\Users\Nicolas\Desktop\Sistema\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioVeiculo.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioSeguradoras.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmRelatOrcamental.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmRelatSinistrovb.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Backup.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Restore.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmRelatOrcamental.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmCadastrarOrcamento.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatPJuridico.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioSeguradoras.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmRelatSinistrovb.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioVeiculo.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+D:\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmDadosVeiculo.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Backup.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Restore.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmRelatOrcamental.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmCadastrarOrcamento.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatPJuridico.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioSeguradoras.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmRelatSinistrovb.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmDadosVeiculo.resources
+C:\Users\mauricio\Desktop\Soft-SolaFide_v8.5.2\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioVeiculo.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe.config
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.exe
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.pdb
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.exe
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\bin\Debug\TemplatesVisual.pdb
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Backup.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Restore.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SaidaClientes.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Comissoes.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmRelatOrcamental.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Pesquisa.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PesquisaTS.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmCadastrarOrcamento.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioPessoaFisica.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarPessoaJuridica.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatPJuridico.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioJuridico.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.CadastrarSeguradora.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioClientes.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioSeguradoras.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmRelatSinistrovb.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Sinistros.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.frmDadosVeiculo.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.RelatorioVeiculo.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.PaginaPrincipal.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.Resources.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.vbproj.GenerateResource.Cache
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SCSInicial.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\obj\Debug\TemplatesVisual.SCSRelat.resources
+C:\Users\Ricardo Sousa\Desktop\Soft-SolaFide_v8.5.3\TemplatesVisual\TemplatesVisual\bin\Debug\Seguro Fácil.exe.config

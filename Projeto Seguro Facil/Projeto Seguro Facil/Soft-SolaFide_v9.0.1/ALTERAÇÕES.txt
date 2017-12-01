@@ -1,0 +1,12 @@
+ALTERAÇÕES:
+ - No Banco:
+	- Tamanho do campo CPF de Pessoa Fisica(de 14 para 11);
+	- Tamanho do campo RG  de Pessoa Fisica(de 12 para 9);
+	- Tipo do campo dt_expedicao de Pessoa Fisica(de VARCHAR(10) para DATE);
+	- Tamanho do campo cep de Endereco(de 9 para 8);
+	- Tamanho do campo tel_residencial de Contato Pessoal(de 13 para 10);
+	- Tamanho do campo tel_recado de Contato Pessoal(de 13 para 10);
+	- Tamanho do campo cel_pessoal de Contato Pessoal(de 14 para 11);
+	
+ - No Sistema:
+	- Cadastro de Pessoa Fisica Arrumado

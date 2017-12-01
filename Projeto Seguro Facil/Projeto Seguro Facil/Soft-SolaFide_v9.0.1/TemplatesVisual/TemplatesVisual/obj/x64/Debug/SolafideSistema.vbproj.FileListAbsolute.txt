@@ -1,0 +1,9 @@
+C:\Users\Nicolas\Desktop\TemplatesVisual\TemplatesVisual\TemplatesVisual\obj\x64\Debug\TemplatesVisual.exe
+C:\Users\Nicolas\Desktop\TemplatesVisual\TemplatesVisual\TemplatesVisual\obj\x64\Debug\TemplatesVisual.pdb
+C:\Users\Nicolas\Desktop\TemplatesVisual\TemplatesVisual\TemplatesVisual\obj\x64\Debug\TemplatesVisual.CadastrarCliente.resources
+C:\Users\Nicolas\Desktop\TemplatesVisual\TemplatesVisual\TemplatesVisual\obj\x64\Debug\TemplatesVisual.CadastrarOrcamento.resources
+C:\Users\Nicolas\Desktop\TemplatesVisual\TemplatesVisual\TemplatesVisual\obj\x64\Debug\TemplatesVisual.CadastrarSeguradora.resources
+C:\Users\Nicolas\Desktop\TemplatesVisual\TemplatesVisual\TemplatesVisual\obj\x64\Debug\TemplatesVisual.Clientes.resources
+C:\Users\Nicolas\Desktop\TemplatesVisual\TemplatesVisual\TemplatesVisual\obj\x64\Debug\TemplatesVisual.PaginaPrincipal.resources
+C:\Users\Nicolas\Desktop\TemplatesVisual\TemplatesVisual\TemplatesVisual\obj\x64\Debug\TemplatesVisual.Resources.resources
+C:\Users\Nicolas\Desktop\TemplatesVisual\TemplatesVisual\TemplatesVisual\obj\x64\Debug\SolafideSistema.vbproj.GenerateResource.Cache

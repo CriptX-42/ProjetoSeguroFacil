@@ -1,0 +1,853 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2D93F8ED-69F9-47E5-8429-2F4B6BCDCE45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SeguroFacil</RootNamespace>
+    <AssemblyName>Seguro Fácil</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>2.4.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SeguroFacil.My.MyApplication</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.BonusSkins.v16.1" />
+    <Reference Include="DevExpress.Data.v16.1" />
+    <Reference Include="DevExpress.ExpressApp.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.ExpressApp.Xpo.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Persistent.Base.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.1" />
+    <Reference Include="DevExpress.Sparkline.v16.1.Core" />
+    <Reference Include="DevExpress.Xpo.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v16.1" />
+    <Reference Include="DevExpress.Charts.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v16.1.Wizard, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.1.UI, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.CodeParser.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v16.1.UI, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v16.1.Extensions, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="My Project\Application1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Backup\Backup.Designer.vb">
+      <DependentUpon>Backup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Backup\Backup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Backup\LoadRest.Designer.vb">
+      <DependentUpon>LoadRest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Backup\LoadRest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Backup\LoadRestore.Designer.vb">
+      <DependentUpon>LoadRestore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Backup\LoadRestore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Backup\Restore.Designer.vb">
+      <DependentUpon>Restore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Backup\Restore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Clientes\CorStatus.vb" />
+    <Compile Include="obj\Classes\Clientes\SaidaClientes.Designer.vb">
+      <DependentUpon>SaidaClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Clientes\SaidaClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Clientes\VencData.vb" />
+    <Compile Include="obj\Classes\Comissoes\ClasseBancoRecibo\Recibo.vb" />
+    <Compile Include="obj\Classes\Comissoes\ClasseBancoRecibo\TotRecibo.vb" />
+    <Compile Include="obj\Classes\Comissoes\ClasseBancoRecibo\USRecibo.vb" />
+    <Compile Include="obj\Classes\Comissoes\ClasseBancoRecibo\USTotRecibo.vb" />
+    <Compile Include="obj\Classes\Comissoes\ClassesBancoComi\ClasseComissoes.vb" />
+    <Compile Include="obj\Classes\Comissoes\ClassesBancoComi\TotClasseComissoes.vb" />
+    <Compile Include="obj\Classes\Comissoes\ClassesBancoComi\USClasseComissoes.vb" />
+    <Compile Include="obj\Classes\Comissoes\ClassesBancoComi\USTotClasseComissoes.vb" />
+    <Compile Include="obj\Classes\Comissoes\Comissoes.Designer.vb">
+      <DependentUpon>Comissoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Comissoes\Comissoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Comissoes\Cons_Orc.Designer.vb">
+      <DependentUpon>Cons_Orc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Comissoes\Cons_Orc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Comissoes\Relatorio\ReciboRelat.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReciboRelat.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Comissoes\Relatorio\RecibRelatorio.Designer.vb">
+      <DependentUpon>RecibRelatorio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Comissoes\Relatorio\RecibRelatorio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Conexao\ConexaoSolafide.vb" />
+    <Compile Include="obj\Classes\Consulta\ConsultarCEP\ConexaoBanco.vb" />
+    <Compile Include="obj\Classes\Consulta\ConsultarCEP\ConsultaPsJuridicaCEP.vb" />
+    <Compile Include="obj\Classes\Consulta\ConsultarCEP\ConsultarCEP.vb" />
+    <Compile Include="obj\Classes\Marca_veiculo\ClasseBanco\BancoMarca.vb" />
+    <Compile Include="obj\Classes\Marca_veiculo\ClasseBanco\BancoVeiculo_Marca.vb" />
+    <Compile Include="obj\Classes\Marca_veiculo\ClasseBanco\USBancoMarca.vb" />
+    <Compile Include="obj\Classes\Marca_veiculo\Funcoes\Objeto\F_ObjetoMarca.vb" />
+    <Compile Include="obj\Classes\Marca_veiculo\Marca.Designer.vb">
+      <DependentUpon>Marca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Marca_veiculo\Marca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\MontagemApolice\ClassesBanco\BancoMontagem.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\ClassesBanco\BancoPagamento.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\ClassesBanco\BancoProponente.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\ClassesBanco\ClasseBancoChaves\BancoClasseApolice.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\ClassesBanco\ClasseBancoChaves\USBancoClasseApolice.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\ClassesBanco\USBancoMontagem.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\Funcoes\FuncoesObjeto\F_ObjetoMont.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\Funcoes\Navegacao\NavegarMont.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\Funcoes\Validacao\ValidacaoMont.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\Relatorio\frmRelatMont.Designer.vb">
+      <DependentUpon>frmRelatMont.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\MontagemApolice\Relatorio\frmRelatMont.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\MontagemApolice\Relatorio\RelatOrcamento.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatOrcamento.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\MontagemApolice\Relatorio\RelatorioMontagemApolice.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatorioMontagemApolice.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\MontagemApolice\Update\UpdateOrcamentoOrc.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\Update\UpdatePagamentoOrc.vb" />
+    <Compile Include="obj\Classes\MontagemApolice\Update\USUpdateOrcamentoOrc.vb" />
+    <Compile Include="obj\Classes\Pesquisa\Pesquisa.Designer.vb">
+      <DependentUpon>Pesquisa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Pesquisa\Pesquisa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Pesquisa\PesquisaClient\PesquisaCarros.Designer.vb">
+      <DependentUpon>PesquisaCarros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Pesquisa\PesquisaClient\PesquisaCarros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Pesquisa\PesquisaClient\SlClienteVeiculo.Designer.vb">
+      <DependentUpon>SlClienteVeiculo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Pesquisa\PesquisaClient\SlClienteVeiculo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaFisica\ClasseBanco\BancoCliente.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\ClasseBanco\BancoContato.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\ClasseBanco\BancoEndereco.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\ClasseBanco\BancoEstadoCivil.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\ClasseBanco\BancoItem.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\ClasseBanco\BancoSexo.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\CadastrarPessoaFisica.Designer.vb">
+      <DependentUpon>CadastrarPessoaFisica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaFisica\CadastrarPessoaFisica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\MontagemApolice\CadastrarMontagemApolice.Designer.vb">
+      <DependentUpon>CadastrarMontagemApolice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\MontagemApolice\CadastrarMontagemApolice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaFisica\Funcoes\FuncoesObjeto\F_ObjetoCli.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\Funcoes\Navegacao\Navegar.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\Funcoes\PesquisaPCPF\PesquisarCPF_Consul.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\Funcoes\Validacao\ValidacaoPFisica.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\Relatorio\RelatorioPessoaFisica.Designer.vb">
+      <DependentUpon>RelatorioPessoaFisica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaFisica\Relatorio\RelatorioPessoaFisica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaFisica\Relatorio\RelatorioPessoaFisicaPP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatorioPessoaFisicaPP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaFisica\Update\UpdateCliente.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\Update\UpdateContato.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\Update\UpdateEndereco.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\Update\UpdateItem.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\Update\UpdateSexo.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\Update\Update_EstadoCivil.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\Update\UsarBancoUpdate.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\CadastrarPessoaJuridica.Designer.vb">
+      <DependentUpon>CadastrarPessoaJuridica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaJuridica\CadastrarPessoaJuridica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaJuridica\ClassesBanco\BancoItemJuri.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\Funcoes\FuncoesObjeto\F_Objeto_PJuri.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\Funcoes\Navegacao\Navegar_PJuri.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\Funcoes\PesquisaPCNPJ\PesquisaPCNPJ_Consu.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\Funcoes\Validacao\ValidacaoPJuridica.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\RelatorioJuridico\RelatorioPessoaJurid.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatorioPessoaJurid.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaJuridica\RelatorioJuridico\RelatPJuridico.Designer.vb">
+      <DependentUpon>RelatPJuridico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaJuridica\RelatorioJuridico\RelatPJuridico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaJuridica\Update\UpdateContatoJuri.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\Update\UpdateEnderecoJuri.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\Update\UpdatePessoaJuri.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\Update\USBancoUpdateJuri.vb" />
+    <Compile Include="obj\Classes\Relatorios\ComissoesRelatorio\AnalitComiss.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AnalitComiss.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\ComissoesRelatorio\RetComiss.Designer.vb">
+      <DependentUpon>RetComiss.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\ComissoesRelatorio\RetComiss.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\ComissoesRelatorio\RetREcibo.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RetREcibo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatOrcamento\RelatOrc.Designer.vb">
+      <DependentUpon>RelatOrc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatOrcamento\RelatOrc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatOrcamento\RetOrcamento.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RetOrcamento.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatPJuridica\RelatorioJuridico.Designer.vb">
+      <DependentUpon>RelatorioJuridico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatPJuridica\RelatorioJuridico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatPJuridica\RelatorioPJuridica.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatorioPJuridica.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatSeguradora\RelatorioSegurad.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatorioSegurad.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatSeguradora\RelatSedurad.Designer.vb">
+      <DependentUpon>RelatSedurad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatSeguradora\RelatSedurad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatSinistr\RetSinistr.Designer.vb">
+      <DependentUpon>RetSinistr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatSinistr\RetSinistr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatSinistr\RetSinistro.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RetSinistro.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\SCSInicial.Designer.vb">
+      <DependentUpon>SCSInicial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\SCSInicial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Seguradora\CadastrarSeguradora.Designer.vb">
+      <DependentUpon>CadastrarSeguradora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Seguradora\CadastrarSeguradora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\PessoaJuridica\ClassesBanco\BancoContatoJuri.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\ClassesBanco\BancoEnderecoJuri.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\ClassesBanco\BancoPessoaJuri.vb" />
+    <Compile Include="obj\Classes\PessoaJuridica\ClassesBanco\USBancoJuridico.vb" />
+    <Compile Include="obj\Classes\Relatorios\RelatClient.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatClient.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatorioClientes.Designer.vb">
+      <DependentUpon>RelatorioClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Relatorios\RelatorioClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Seguradora\ClasseBanco\BancoContatoSeg.vb" />
+    <Compile Include="obj\Classes\Seguradora\ClasseBanco\BancoSeguradora.vb" />
+    <Compile Include="obj\Classes\Seguradora\Funcoes\FuncoesObjeto\F_ObjetoSeg.vb" />
+    <Compile Include="obj\Classes\Seguradora\ClasseBanco\USBancoSeguradora.vb" />
+    <Compile Include="obj\Classes\Seguradora\Funcoes\Navegacao\NavegarSeg.vb" />
+    <Compile Include="obj\Classes\Seguradora\Funcoes\Validacao\ValidacaoSeg.vb" />
+    <Compile Include="obj\Classes\Seguradora\Relatorio\RelatorioSeguradoras.Designer.vb">
+      <DependentUpon>RelatorioSeguradoras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Seguradora\Relatorio\RelatorioSeguradoras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Seguradora\Update\UpdateContatoSeg.vb" />
+    <Compile Include="obj\Classes\Seguradora\Update\UpdateSeguradora.vb" />
+    <Compile Include="obj\Classes\Seguradora\Update\USUpdateSeguradora.vb" />
+    <Compile Include="obj\Classes\Sinistros\AlterarSinistr\BancoAutalizarSinistr.vb" />
+    <Compile Include="obj\Classes\Sinistros\AlterarSinistr\USBancoAtualizarSinistr.vb" />
+    <Compile Include="obj\Classes\Sinistros\ClasseBancoSinstr\AuxiliarChaves\BancoClientSinistro.vb" />
+    <Compile Include="obj\Classes\Sinistros\ClasseBancoSinstr\AuxiliarChaves\USBancoClientSinistro.vb" />
+    <Compile Include="obj\Classes\Sinistros\ClasseBancoSinstr\BancoSinistro.vb" />
+    <Compile Include="obj\Classes\Sinistros\ClasseBancoSinstr\Endereco_Sinitr.vb" />
+    <Compile Include="obj\Classes\Sinistros\ClasseBancoSinstr\USBancoSinistro.vb" />
+    <Compile Include="obj\Classes\Sinistros\FunçõesObjSinistr\F_ObjetoSinistr.vb" />
+    <Compile Include="obj\Classes\Sinistros\Navegacao\NavegacaoSinistr.vb" />
+    <Compile Include="obj\Classes\Seguradora\Relatorio\RelatorioSeguradora.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatorioSeguradora.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Sinistros\Relatorio\frmRelatSinistrovb.Designer.vb">
+      <DependentUpon>frmRelatSinistrovb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Sinistros\Relatorio\frmRelatSinistrovb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Sinistros\Relatorio\RelatorioSinistr.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatorioSinistr.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Sinistros\Sinistros.Designer.vb">
+      <DependentUpon>Sinistros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Sinistros\Sinistros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Sinistros\ValidacaoSinistr\ValidacaoSinistr.vb" />
+    <Compile Include="obj\Classes\SplashForm.Designer.vb">
+      <DependentUpon>SplashForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\SplashForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Veiculo\CadastrarVeiculo.Designer.vb">
+      <DependentUpon>CadastrarVeiculo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Veiculo\CadastrarVeiculo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Timer\cDiversas.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\ClasseBanco\ConectarBanco.vb" />
+    <Compile Include="obj\Classes\Veiculo\ClienteVeiculo\ClienteVeiculo.vb" />
+    <Compile Include="obj\Classes\Veiculo\ClienteVeiculo\USClienteVeiculo.vb" />
+    <Compile Include="obj\Classes\Veiculo\Funcoes\FuncoesObjetQuest\F_ObjetoQuest.vb" />
+    <Compile Include="obj\Classes\Veiculo\Funcoes\Navegacao\NavegarVeiculo.vb" />
+    <Compile Include="obj\Classes\Veiculo\Funcoes\Validacao\ValidacaoCadVeiculo.vb" />
+    <Compile Include="obj\Classes\Veiculo\PrincCondutor\Estudo\BancoPeriodoEstudo.vb" />
+    <Compile Include="obj\Classes\Veiculo\PrincCondutor\Estudo\USBancoPeriodoEstudos.vb" />
+    <Compile Include="obj\Classes\Veiculo\PrincCondutor\SegundCondutor.vb" />
+    <Compile Include="obj\Classes\Veiculo\PrincCondutor\UsandoSexoPrincCundult.vb" />
+    <Compile Include="obj\Classes\Veiculo\PrincCondutor\USBancoPrincCondutor.vb" />
+    <Compile Include="obj\Classes\Veiculo\Relatorio\RelatorioVeiculo.Designer.vb">
+      <DependentUpon>RelatorioVeiculo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Classes\Veiculo\Relatorio\RelatorioVeiculo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Veiculo\Relatorio\RelatVeiculo.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatVeiculo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Veiculo\Relatorio\RetVeicCadastr.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RetVeicCadastr.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="obj\Classes\Veiculo\tb_Garagem\Garagem.vb" />
+    <Compile Include="obj\Classes\Veiculo\tb_Garagem\USBancoGaragem.vb" />
+    <Compile Include="obj\Classes\Veiculo\tb_Questoes\Filho_Ent_At17.vb" />
+    <Compile Include="obj\Classes\Veiculo\tb_Questoes\Questoes.vb" />
+    <Compile Include="obj\Classes\Veiculo\tb_Questoes\USBancoQuestoes.vb" />
+    <Compile Include="obj\Classes\Veiculo\PrincCondutor\PrincCondutor.vb" />
+    <Compile Include="obj\Classes\Veiculo\tb_dadosVeiculos\USBancoVeiculo.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\tb_PrinciCondutor\PrinciCondutorUpdate.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\tb_PrinciCondutor\SegundCondutorUpdate.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\tb_PrinciCondutor\SexoCondutUpdate.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\tb_PrinciCondutor\UpdateEstudos\BancoPeriodoEstudosUpdate.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\tb_PrinciCondutor\UpdateEstudos\USBancoPeriodoEstudosUpdate.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\tb_PrinciCondutor\USBancoUpdateCondut.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\tb_UpdateGaragem\UpdateGaragem.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\tb_UpdateGaragem\USBancoUpGaragem.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\UpClienteVeiculo\UpClienteVeiculo.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\UpClienteVeiculo\USUpClienteVeiculo.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\UpdateQuestoes\UPBancoQuestoes.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\UpdateQuestoes\UpdateQuestoes.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\UpdateQuestoes\Update_Filho_At17.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\UpdateVeiculo\UpdateVeiculo.vb" />
+    <Compile Include="obj\Classes\Veiculo\Update\UpdateVeiculo\USBancoUpdateVeiculo.vb" />
+    <Compile Include="PaginaPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaginaPrincipal.Designer.vb">
+      <DependentUpon>PaginaPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="obj\Classes\Veiculo\tb_dadosVeiculos\Veiculo.vb" />
+    <Compile Include="obj\Classes\PessoaFisica\ClasseBanco\USBanco.vb" />
+    <Compile Include="solafide_v6DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>solafide_v6DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="solafide_v6DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>solafide_v6DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="solafide_v6DataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>solafide_v6DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="solafide_v6DataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>solafide_v6DataSet3.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="obj\Classes\Backup\Backup.resx">
+      <DependentUpon>Backup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Backup\LoadRest.resx">
+      <DependentUpon>LoadRest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Backup\LoadRestore.resx">
+      <DependentUpon>LoadRestore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Backup\Restore.resx">
+      <DependentUpon>Restore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Clientes\SaidaClientes.resx">
+      <DependentUpon>SaidaClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Comissoes\Comissoes.resx">
+      <DependentUpon>Comissoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Comissoes\Cons_Orc.resx">
+      <DependentUpon>Cons_Orc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Marca_veiculo\Marca.resx">
+      <DependentUpon>Marca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Comissoes\Relatorio\ReciboRelat.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReciboRelat.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Comissoes\Relatorio\RecibRelatorio.resx">
+      <DependentUpon>RecibRelatorio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\MontagemApolice\Relatorio\frmRelatMont.resx">
+      <DependentUpon>frmRelatMont.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\MontagemApolice\Relatorio\RelatOrcamento.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatOrcamento.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\MontagemApolice\Relatorio\RelatorioMontagemApolice.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatorioMontagemApolice.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Pesquisa\Pesquisa.resx">
+      <DependentUpon>Pesquisa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Pesquisa\PesquisaClient\PesquisaCarros.resx">
+      <DependentUpon>PesquisaCarros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Pesquisa\PesquisaClient\SlClienteVeiculo.resx">
+      <DependentUpon>SlClienteVeiculo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\PessoaFisica\CadastrarPessoaFisica.resx">
+      <DependentUpon>CadastrarPessoaFisica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\MontagemApolice\CadastrarMontagemApolice.resx">
+      <DependentUpon>CadastrarMontagemApolice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\PessoaFisica\Relatorio\RelatorioPessoaFisica.resx">
+      <DependentUpon>RelatorioPessoaFisica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\PessoaFisica\Relatorio\RelatorioPessoaFisicaPP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatorioPessoaFisicaPP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\PessoaJuridica\CadastrarPessoaJuridica.resx">
+      <DependentUpon>CadastrarPessoaJuridica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\PessoaJuridica\RelatorioJuridico\RelatorioPessoaJurid.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatorioPessoaJurid.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\PessoaJuridica\RelatorioJuridico\RelatPJuridico.resx">
+      <DependentUpon>RelatPJuridico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\ComissoesRelatorio\AnalitComiss.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AnalitComiss.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\ComissoesRelatorio\RetComiss.resx">
+      <DependentUpon>RetComiss.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\ComissoesRelatorio\RetREcibo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RetREcibo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\RelatOrcamento\RelatOrc.resx">
+      <DependentUpon>RelatOrc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\RelatOrcamento\RetOrcamento.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RetOrcamento.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\RelatPJuridica\RelatorioJuridico.resx">
+      <DependentUpon>RelatorioJuridico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\RelatPJuridica\RelatorioPJuridica.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatorioPJuridica.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\RelatSeguradora\RelatorioSegurad.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatorioSegurad.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\RelatSeguradora\RelatSedurad.resx">
+      <DependentUpon>RelatSedurad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\RelatSinistr\RetSinistr.resx">
+      <DependentUpon>RetSinistr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\RelatSinistr\RetSinistro.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RetSinistro.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\SCSInicial.resx">
+      <DependentUpon>SCSInicial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Seguradora\CadastrarSeguradora.resx">
+      <DependentUpon>CadastrarSeguradora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\RelatClient.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatClient.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Relatorios\RelatorioClientes.resx">
+      <DependentUpon>RelatorioClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Seguradora\Relatorio\RelatorioSeguradoras.resx">
+      <DependentUpon>RelatorioSeguradoras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Seguradora\Relatorio\RelatorioSeguradora.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatorioSeguradora.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Sinistros\Relatorio\frmRelatSinistrovb.resx">
+      <DependentUpon>frmRelatSinistrovb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Sinistros\Relatorio\RelatorioSinistr.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatorioSinistr.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Sinistros\Sinistros.resx">
+      <DependentUpon>Sinistros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\SplashForm.resx">
+      <DependentUpon>SplashForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Veiculo\CadastrarVeiculo.resx">
+      <DependentUpon>CadastrarVeiculo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Veiculo\Relatorio\RelatorioVeiculo.resx">
+      <DependentUpon>RelatorioVeiculo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Veiculo\Relatorio\RelatVeiculo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatVeiculo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Classes\Veiculo\Relatorio\RetVeicCadastr.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RetVeicCadastr.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaginaPrincipal.resx">
+      <DependentUpon>PaginaPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="solafide_v6DataSet.xsc">
+      <DependentUpon>solafide_v6DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="solafide_v6DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>solafide_v6DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="solafide_v6DataSet.xss">
+      <DependentUpon>solafide_v6DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="solafide_v6DataSet1.xsc">
+      <DependentUpon>solafide_v6DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="solafide_v6DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>solafide_v6DataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="solafide_v6DataSet1.xss">
+      <DependentUpon>solafide_v6DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="solafide_v6DataSet2.xsc">
+      <DependentUpon>solafide_v6DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="solafide_v6DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>solafide_v6DataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="solafide_v6DataSet2.xss">
+      <DependentUpon>solafide_v6DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="solafide_v6DataSet3.xsc">
+      <DependentUpon>solafide_v6DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="solafide_v6DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>solafide_v6DataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="solafide_v6DataSet3.xss">
+      <DependentUpon>solafide_v6DataSet3.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application1.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <Content Include="icone.ico" />
+    <None Include="Resources\ajax_loader2.gif" />
+    <None Include="Resources\ajax_loader.gif" />
+    <None Include="Resources\Actions-edit-delete-icon.png" />
+    <None Include="Resources\Action-ok-icon.png" />
+    <None Include="Resources\Botão3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Classes\Clientes\CadastrarSeguradora\" />
+    <Folder Include="obj\Classes\Marca_veiculo\Funcoes\Navegacao\" />
+    <Folder Include="obj\Classes\Marca_veiculo\Funcoes\Validacao\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
